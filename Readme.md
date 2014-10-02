@@ -1,7 +1,7 @@
 Gurgle instant messaging protocol design proposal
 =================================================
 
-This repository contains the design proposal of Gurgle instant messaging prototol.
+This repository contains the design proposal of Gurgle instant messaging protocol.
 
 ## License
 
@@ -11,13 +11,13 @@ This document is licensed under GNU Free Documentation License 1.3, you can obta
 
 ## Index
 
-01. Introducton
+01. Introduction
 02. Gurgle ID
 03. Integration with XMPP
 04. Transport stream
 05. JKSN payload
 06. Connection establishment
-07. Authenciation
+07. Authentication
 08. Roaster and presence
 09. Instant Message
 10. Rich text

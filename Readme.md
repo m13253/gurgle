@@ -9,6 +9,10 @@ Copyleft 2014, StarBrilliant <m13253@hotmail.com>.
 
 This document is licensed under GNU Free Documentation License 1.3, you can obtain a copy of GNU FDL at <https://www.gnu.org/copyleft/fdl.html>.
 
+## Note
+
+While multiple translation versions exist, the "en_US" directory contains the original protocol documentations.
+
 ## Index
 
 01. Introduction

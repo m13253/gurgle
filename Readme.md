@@ -15,12 +15,13 @@ This document is licensed under GNU Free Documentation License 1.3, you can obta
 02. Gurgle ID
 03. Integration with XMPP
 04. Transport stream
-05. JKSN payload
-06. Connection establishment
-07. Authentication
-08. Roaster and presence
-09. Instant Message
-10. Rich text
-11. Multi user chat
-12. Peer-to-peer communication
-13. Video chat and video conferencing
+05. Connection establishment
+06. JKSN payload
+07. Request and response
+08. Authentication
+09. Roaster and presence
+10. Instant Message
+11. Rich text
+12. Multi user chat
+13. Peer-to-peer communication
+14. Video chat and video conferencing

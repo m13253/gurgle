@@ -19,7 +19,7 @@ While multiple translation versions exist, the "en_US" directory contains the or
 02. Gurgle ID
 03. Integration with XMPP
 04. Transport stream
-05. Payload upgrading
+05. Payload and payload upgrading
 06. Connection establishment
 07. Request and response
 08. Authentication

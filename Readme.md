@@ -15,8 +15,8 @@ This document is licensed under GNU Free Documentation License 1.3, you can obta
 02. Gurgle ID
 03. Integration with XMPP
 04. Transport stream
-05. Connection establishment
-06. JKSN payload
+05. JKSN payload
+06. Connection establishment
 07. Request and response
 08. Authentication
 09. Roaster and presence

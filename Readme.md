@@ -29,5 +29,7 @@ While multiple translation versions exist, the "en_US" directory contains the or
 12. Multi user chat
 13. Peer-to-peer communication
 14. Video chat and video conferencing
+
 ### Appendix
+
 01. Gurgle packets
